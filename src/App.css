@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+/*this is own css part*/
+.searching{
+  width: 400px;
+  float: right;
+  margin-bottom: 2px;
+}
+.navbar{
+  text-decoration: none;
+  font-size: large;
+  margin-left: 15px;
+  
+
+  
+}
+
+.about-college{
+  background-color: #684168;
+  width: fit-content;
+  scroll-behavior: smooth;
+  margin: auto;
+  color: white;
+}
+.navbar:hover{
+  color: purple;
+}
+.active{
+  color: red;
+ 
+  padding: 8px;
+  border-radius: 10px;
+}
+/*this is own css part*/
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
