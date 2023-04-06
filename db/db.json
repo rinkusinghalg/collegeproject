@@ -1,0 +1,151 @@
+{
+  "student": [
+    {
+      "name": "sonu singh",
+      "father": "ustaj singh",
+      "mother": "bichala bai",
+      "gender": "Male",
+      "address": "kauriyagang",
+      "city": "aligarh",
+      "state": "Utter pradesh",
+      "mobile": "65844512473",
+      "email": "R@gmail.com",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "sonpal",
+      "father": "shiv",
+      "mother": "div",
+      "gender": "Female",
+      "address": "aloki",
+      "city": "gurugram",
+      "state": "Madhya predesh",
+      "mobile": "65845445",
+      "email": "Rdf@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "sonpal",
+      "father": "shiv",
+      "mother": "div",
+      "gender": "Female",
+      "address": "aloki",
+      "city": "gurugram",
+      "state": "Madhya predesh",
+      "mobile": "65845445",
+      "email": "Rdf@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "rinku",
+      "father": "fffsw",
+      "mother": "dfer",
+      "gender": "Male",
+      "address": "ergwr",
+      "city": "erge2r",
+      "state": "Bihar",
+      "mobile": "62655864984",
+      "email": "jo@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "bhuvnesh singh",
+      "father": "jaiveer singh",
+      "mother": "selesh devi",
+      "gender": "Female",
+      "address": "aligarh",
+      "city": "jaipur",
+      "state": "Rajsthan",
+      "mobile": "893504164785",
+      "email": "Rdf@gmail.com",
+      "userId": 12,
+      "id": 12
+    },
+    {
+      "name": "rahul",
+      "father": "trvber",
+      "mother": "trhev",
+      "gender": "Female",
+      "address": "trhevr",
+      "city": "threvr",
+      "state": "Madhya predesh",
+      "mobile": "3516416",
+      "email": "Rdf@gmail.com",
+      "userId": 14,
+      "id": 14
+    },
+    {
+      "name": "beg t",
+      "father": "trvber",
+      "mother": "trhev",
+      "gender": "Female",
+      "address": "trhevr",
+      "city": "threvr",
+      "state": "Madhya predesh",
+      "mobile": "3516416",
+      "email": "Rdf@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Rinku singh",
+      "father": "Saudan singh",
+      "mother": "Radha devi",
+      "gender": "Male",
+      "address": "vill post jirauli heera singh",
+      "city": "aligarh",
+      "state": "Utter pradesh",
+      "mobile": "8395042915",
+      "email": "rinkusingh@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "vaishnavi kumari",
+      "father": "jeetu singh",
+      "mother": "pritee devi",
+      "gender": "Female",
+      "address": "jirauli heera singh",
+      "city": "aligarh",
+      "state": "Utter pradesh",
+      "mobile": "9758233014",
+      "email": "vaishnavi@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "madhav singh",
+      "father": "jeetu singh",
+      "mother": "preeti devi",
+      "gender": "Male",
+      "address": "jirauli heera singh",
+      "city": "aligarh",
+      "state": "Utter pradesh",
+      "mobile": "8395041245",
+      "email": "madhavsingh@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "krishna singh",
+      "father": "rinku singh.",
+      "mother": "priyanka singh65",
+      "gender": "Male",
+      "address": "ajad nagar jirauli",
+      "city": "aligarh",
+      "state": "Utter pradesh",
+      "mobile": "4664644664",
+      "email": "krishna@gmail.com",
+      "id": 19
+    }
+  ],
+  "addmission": [
+    {
+      "registration": "45654546",
+      "name": "Rinku",
+      "father": "saudan",
+      "caurse": "MCA",
+      "session": "2021-22",
+      "branch": "mba",
+      "fees": "10000",
+      "roll": "1"
+    }
+  ]
+}
